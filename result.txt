@@ -1,0 +1,5 @@
+Name  : Mahedi
+ID  : 1407005
+Dept  : CSE
+Versity  : KUET
+Current CGPA  : 7.023809523809524
